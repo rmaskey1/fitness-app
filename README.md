@@ -8,6 +8,7 @@ This simple SwiftUI fitness app was a short-term project for the final round of 
   - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
     - [Built With](#built-with)
+    - [Design Choices](#design-choices)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
@@ -24,7 +25,7 @@ This minimalist fitness app allows you to track and set your calories, steps, an
 
 - SwiftUI
 
-### Design
+### Design Choices
 
 This project was designed taking into account the scenarios in which a user would access the app. Since this is a fitness tracker app, most users would check it in the middle of their activity. During activity, users will want to a straightforward depiction of their progress and a simple method of adjusting their goals. To accomplish this, I created a user interface with a customizable dark background and bright foreground in order for all of the components on the screen to pop out and be easily identifiable. Customizability of colors is a great option for users and they are able to choose a scheme that is most easing and appealing to their eyes. Overall, this app was created to be intuitive and simple so that users of all ages can meet their daily health goals.
 
