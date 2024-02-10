@@ -1,0 +1,590 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		09350A6C2B75C9D40003A902 /* icons8-shoe-print-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 09350A6B2B75C9D30003A902 /* icons8-shoe-print-100.png */; };
+		94735A992B74A98E00D394CD /* fitness_app_parkliApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94735A982B74A98E00D394CD /* fitness_app_parkliApp.swift */; };
+		94735A9B2B74A98E00D394CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94735A9A2B74A98E00D394CD /* ContentView.swift */; };
+		94735A9D2B74A99500D394CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94735A9C2B74A99500D394CD /* Assets.xcassets */; };
+		94735AA02B74A99500D394CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94735A9F2B74A99500D394CD /* Preview Assets.xcassets */; };
+		94735AAA2B74A99500D394CD /* fitness_app_parkliTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94735AA92B74A99500D394CD /* fitness_app_parkliTests.swift */; };
+		94735AB42B74A99500D394CD /* fitness_app_parkliUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94735AB32B74A99500D394CD /* fitness_app_parkliUITests.swift */; };
+		94735AB62B74A99500D394CD /* fitness_app_parkliUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94735AB52B74A99500D394CD /* fitness_app_parkliUITestsLaunchTests.swift */; };
+		94735AC32B74BBFB00D394CD /* icons8-shoe-print-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 94735AC22B74BBFB00D394CD /* icons8-shoe-print-50.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		94735AA62B74A99500D394CD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 94735A8D2B74A98D00D394CD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 94735A942B74A98D00D394CD;
+			remoteInfo = "fitness-app-parkli";
+		};
+		94735AB02B74A99500D394CD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 94735A8D2B74A98D00D394CD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 94735A942B74A98D00D394CD;
+			remoteInfo = "fitness-app-parkli";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		09350A6B2B75C9D30003A902 /* icons8-shoe-print-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-shoe-print-100.png"; path = "../../../Downloads/icons8-shoe-print-100.png"; sourceTree = "<group>"; };
+		94735A952B74A98E00D394CD /* fitness-app-parkli.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "fitness-app-parkli.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		94735A982B74A98E00D394CD /* fitness_app_parkliApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fitness_app_parkliApp.swift; sourceTree = "<group>"; };
+		94735A9A2B74A98E00D394CD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		94735A9C2B74A99500D394CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		94735A9F2B74A99500D394CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		94735AA52B74A99500D394CD /* fitness-app-parkliTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "fitness-app-parkliTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		94735AA92B74A99500D394CD /* fitness_app_parkliTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fitness_app_parkliTests.swift; sourceTree = "<group>"; };
+		94735AAF2B74A99500D394CD /* fitness-app-parkliUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "fitness-app-parkliUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		94735AB32B74A99500D394CD /* fitness_app_parkliUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fitness_app_parkliUITests.swift; sourceTree = "<group>"; };
+		94735AB52B74A99500D394CD /* fitness_app_parkliUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fitness_app_parkliUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		94735AC22B74BBFB00D394CD /* icons8-shoe-print-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-shoe-print-50.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		94735A922B74A98D00D394CD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94735AA22B74A99500D394CD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94735AAC2B74A99500D394CD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		94735A8C2B74A98D00D394CD = {
+			isa = PBXGroup;
+			children = (
+				94735A972B74A98E00D394CD /* fitness-app-parkli */,
+				94735AA82B74A99500D394CD /* fitness-app-parkliTests */,
+				94735AB22B74A99500D394CD /* fitness-app-parkliUITests */,
+				94735A962B74A98E00D394CD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		94735A962B74A98E00D394CD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				94735A952B74A98E00D394CD /* fitness-app-parkli.app */,
+				94735AA52B74A99500D394CD /* fitness-app-parkliTests.xctest */,
+				94735AAF2B74A99500D394CD /* fitness-app-parkliUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		94735A972B74A98E00D394CD /* fitness-app-parkli */ = {
+			isa = PBXGroup;
+			children = (
+				94735A982B74A98E00D394CD /* fitness_app_parkliApp.swift */,
+				09350A6B2B75C9D30003A902 /* icons8-shoe-print-100.png */,
+				94735A9A2B74A98E00D394CD /* ContentView.swift */,
+				94735AC22B74BBFB00D394CD /* icons8-shoe-print-50.png */,
+				94735A9C2B74A99500D394CD /* Assets.xcassets */,
+				94735A9E2B74A99500D394CD /* Preview Content */,
+			);
+			path = "fitness-app-parkli";
+			sourceTree = "<group>";
+		};
+		94735A9E2B74A99500D394CD /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				94735A9F2B74A99500D394CD /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		94735AA82B74A99500D394CD /* fitness-app-parkliTests */ = {
+			isa = PBXGroup;
+			children = (
+				94735AA92B74A99500D394CD /* fitness_app_parkliTests.swift */,
+			);
+			path = "fitness-app-parkliTests";
+			sourceTree = "<group>";
+		};
+		94735AB22B74A99500D394CD /* fitness-app-parkliUITests */ = {
+			isa = PBXGroup;
+			children = (
+				94735AB32B74A99500D394CD /* fitness_app_parkliUITests.swift */,
+				94735AB52B74A99500D394CD /* fitness_app_parkliUITestsLaunchTests.swift */,
+			);
+			path = "fitness-app-parkliUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		94735A942B74A98D00D394CD /* fitness-app-parkli */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94735AB92B74A99500D394CD /* Build configuration list for PBXNativeTarget "fitness-app-parkli" */;
+			buildPhases = (
+				94735A912B74A98D00D394CD /* Sources */,
+				94735A922B74A98D00D394CD /* Frameworks */,
+				94735A932B74A98D00D394CD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "fitness-app-parkli";
+			productName = "fitness-app-parkli";
+			productReference = 94735A952B74A98E00D394CD /* fitness-app-parkli.app */;
+			productType = "com.apple.product-type.application";
+		};
+		94735AA42B74A99500D394CD /* fitness-app-parkliTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94735ABC2B74A99500D394CD /* Build configuration list for PBXNativeTarget "fitness-app-parkliTests" */;
+			buildPhases = (
+				94735AA12B74A99500D394CD /* Sources */,
+				94735AA22B74A99500D394CD /* Frameworks */,
+				94735AA32B74A99500D394CD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				94735AA72B74A99500D394CD /* PBXTargetDependency */,
+			);
+			name = "fitness-app-parkliTests";
+			productName = "fitness-app-parkliTests";
+			productReference = 94735AA52B74A99500D394CD /* fitness-app-parkliTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		94735AAE2B74A99500D394CD /* fitness-app-parkliUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94735ABF2B74A99500D394CD /* Build configuration list for PBXNativeTarget "fitness-app-parkliUITests" */;
+			buildPhases = (
+				94735AAB2B74A99500D394CD /* Sources */,
+				94735AAC2B74A99500D394CD /* Frameworks */,
+				94735AAD2B74A99500D394CD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				94735AB12B74A99500D394CD /* PBXTargetDependency */,
+			);
+			name = "fitness-app-parkliUITests";
+			productName = "fitness-app-parkliUITests";
+			productReference = 94735AAF2B74A99500D394CD /* fitness-app-parkliUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		94735A8D2B74A98D00D394CD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					94735A942B74A98D00D394CD = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					94735AA42B74A99500D394CD = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 94735A942B74A98D00D394CD;
+					};
+					94735AAE2B74A99500D394CD = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 94735A942B74A98D00D394CD;
+					};
+				};
+			};
+			buildConfigurationList = 94735A902B74A98D00D394CD /* Build configuration list for PBXProject "fitness-app-parkli" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 94735A8C2B74A98D00D394CD;
+			productRefGroup = 94735A962B74A98E00D394CD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				94735A942B74A98D00D394CD /* fitness-app-parkli */,
+				94735AA42B74A99500D394CD /* fitness-app-parkliTests */,
+				94735AAE2B74A99500D394CD /* fitness-app-parkliUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		94735A932B74A98D00D394CD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				09350A6C2B75C9D40003A902 /* icons8-shoe-print-100.png in Resources */,
+				94735AA02B74A99500D394CD /* Preview Assets.xcassets in Resources */,
+				94735A9D2B74A99500D394CD /* Assets.xcassets in Resources */,
+				94735AC32B74BBFB00D394CD /* icons8-shoe-print-50.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94735AA32B74A99500D394CD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94735AAD2B74A99500D394CD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		94735A912B74A98D00D394CD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94735A9B2B74A98E00D394CD /* ContentView.swift in Sources */,
+				94735A992B74A98E00D394CD /* fitness_app_parkliApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94735AA12B74A99500D394CD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94735AAA2B74A99500D394CD /* fitness_app_parkliTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94735AAB2B74A99500D394CD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94735AB62B74A99500D394CD /* fitness_app_parkliUITestsLaunchTests.swift in Sources */,
+				94735AB42B74A99500D394CD /* fitness_app_parkliUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		94735AA72B74A99500D394CD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 94735A942B74A98D00D394CD /* fitness-app-parkli */;
+			targetProxy = 94735AA62B74A99500D394CD /* PBXContainerItemProxy */;
+		};
+		94735AB12B74A99500D394CD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 94735A942B74A98D00D394CD /* fitness-app-parkli */;
+			targetProxy = 94735AB02B74A99500D394CD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		94735AB72B74A99500D394CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		94735AB82B74A99500D394CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		94735ABA2B74A99500D394CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"fitness-app-parkli/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "reshaj.fitness-app-parkli";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		94735ABB2B74A99500D394CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"fitness-app-parkli/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "reshaj.fitness-app-parkli";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		94735ABD2B74A99500D394CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "reshaj.fitness-app-parkliTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/fitness-app-parkli.app/fitness-app-parkli";
+			};
+			name = Debug;
+		};
+		94735ABE2B74A99500D394CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "reshaj.fitness-app-parkliTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/fitness-app-parkli.app/fitness-app-parkli";
+			};
+			name = Release;
+		};
+		94735AC02B74A99500D394CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "reshaj.fitness-app-parkliUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "fitness-app-parkli";
+			};
+			name = Debug;
+		};
+		94735AC12B74A99500D394CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "reshaj.fitness-app-parkliUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "fitness-app-parkli";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		94735A902B74A98D00D394CD /* Build configuration list for PBXProject "fitness-app-parkli" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94735AB72B74A99500D394CD /* Debug */,
+				94735AB82B74A99500D394CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94735AB92B74A99500D394CD /* Build configuration list for PBXNativeTarget "fitness-app-parkli" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94735ABA2B74A99500D394CD /* Debug */,
+				94735ABB2B74A99500D394CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94735ABC2B74A99500D394CD /* Build configuration list for PBXNativeTarget "fitness-app-parkliTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94735ABD2B74A99500D394CD /* Debug */,
+				94735ABE2B74A99500D394CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94735ABF2B74A99500D394CD /* Build configuration list for PBXNativeTarget "fitness-app-parkliUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94735AC02B74A99500D394CD /* Debug */,
+				94735AC12B74A99500D394CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 94735A8D2B74A98D00D394CD /* Project object */;
+}
