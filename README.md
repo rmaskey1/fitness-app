@@ -62,6 +62,27 @@ App Features:
 
 ### Roadmap
 
+1. You will start on the first onboarding screen; press "Continue" or swipe to the left to go to the next page
+<img width="352" alt="welcome1" src="https://github.com/rmaskey1/fitness-app/assets/103459061/21637995-6fbf-40ba-ab96-812a75a2e868">
+
+2. This is the second onboarding screen; click "Let's Go!" to continue to the main screen
+<img width="354" alt="welcome2" src="https://github.com/rmaskey1/fitness-app/assets/103459061/0b59c275-1930-4242-afd0-e101db2d4f57">
+
+3. On the top half of the main screen, you will see 3 progress rings.
+   a. The top ring with the flame is the calorie tracker and the text under it displays your burned calories out of your calorie goal.
+   b. The ring to the left is the step tracker and the text under it displays your steps for the day out of your step goal.
+   c. The ring to the right is the exercise tracker and the text under it displays the minutes you have worked out today out of your exercise goal.
+   
+<img width="303" alt="progress" src="https://github.com/rmaskey1/fitness-app/assets/103459061/8d4ed036-8f88-48c6-ba8b-5343cca3d9d9">
+
+4. On the bottom half, you will see three sliders corresponding to the rings on the top half.
+<img width="312" alt="sliders" src="https://github.com/rmaskey1/fitness-app/assets/103459061/3713c75f-5335-423e-95c8-365ed477e02e">
+
+5. You can customize your experience by clicking the gear icon on the top right of your screen.
+<img width="197" alt="gear" src="https://github.com/rmaskey1/fitness-app/assets/103459061/e6d7588a-4f86-4bb0-9b63-a06575db6980">
+
+6. On the settings page, you can change your background color, calorie tracker color, step tracker color, and exercise tracker color.
+<img width="258" alt="settings" src="https://github.com/rmaskey1/fitness-app/assets/103459061/a99b0241-7d73-4da9-b2d2-92ee0019cb4c">
 
 ### Contact
 
