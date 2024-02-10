@@ -62,18 +62,18 @@ App Features:
 
 ### Roadmap
 
-1. You will start on the first onboarding screen; press "Continue" or swipe to the left to go to the next page
-<img width="352" alt="welcome1" src="https://github.com/rmaskey1/fitness-app/assets/103459061/21637995-6fbf-40ba-ab96-812a75a2e868">
+1. You will start on the first onboarding screen; press "Continue" or swipe to the left to go to the next page.
+    <img width="352" alt="welcome1" src="https://github.com/rmaskey1/fitness-app/assets/103459061/21637995-6fbf-40ba-ab96-812a75a2e868">
 
-2. This is the second onboarding screen; click "Let's Go!" to continue to the main screen
-<img width="354" alt="welcome2" src="https://github.com/rmaskey1/fitness-app/assets/103459061/0b59c275-1930-4242-afd0-e101db2d4f57">
+2. This is the second onboarding screen; click "Let's Go!" to continue to the main screen.
+    <img width="354" alt="welcome2" src="https://github.com/rmaskey1/fitness-app/assets/103459061/0b59c275-1930-4242-afd0-e101db2d4f57">
 
 3. On the top half of the main screen, you will see 3 progress rings.
-   a. The top ring with the flame is the calorie tracker and the text under it displays your burned calories out of your calorie goal.
-   b. The ring to the left is the step tracker and the text under it displays your steps for the day out of your step goal.
-   c. The ring to the right is the exercise tracker and the text under it displays the minutes you have worked out today out of your exercise goal.
+   - The top ring with the flame is the calorie tracker and the text under it displays your burned calories out of your calorie goal.
+   - The ring to the left is the step tracker and the text under it displays your steps for the day out of your step goal.
+   - The ring to the right is the exercise tracker and the text under it displays the minutes you have worked out today out of your exercise goal.
    
-<img width="303" alt="progress" src="https://github.com/rmaskey1/fitness-app/assets/103459061/8d4ed036-8f88-48c6-ba8b-5343cca3d9d9">
+    <img width="303" alt="progress" src="https://github.com/rmaskey1/fitness-app/assets/103459061/8d4ed036-8f88-48c6-ba8b-5343cca3d9d9">
 
 4. On the bottom half, you will see three sliders corresponding to the rings on the top half.
 <img width="312" alt="sliders" src="https://github.com/rmaskey1/fitness-app/assets/103459061/3713c75f-5335-423e-95c8-365ed477e02e">
