@@ -72,7 +72,6 @@ App Features:
    - The top ring with the flame is the calorie tracker and the text under it displays your burned calories out of your calorie goal.
    - The ring to the left is the step tracker and the text under it displays your steps for the day out of your step goal.
    - The ring to the right is the exercise tracker and the text under it displays the minutes you have worked out today out of your exercise goal.
-   
     <img width="303" alt="progress" src="https://github.com/rmaskey1/fitness-app/assets/103459061/8d4ed036-8f88-48c6-ba8b-5343cca3d9d9">
 
 4. On the bottom half, you will see three sliders corresponding to the rings on the top half.
